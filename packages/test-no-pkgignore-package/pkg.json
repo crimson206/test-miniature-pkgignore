@@ -1,0 +1,8 @@
+{
+  "name": "test-no-pkgignore-package",
+  "version": "0.1.0",
+  "description": "Test package test-no-pkgignore-package",
+  "db-repo": "https://github.com/crimson206/test-miniature-pkgignore",
+  "root-dir": "packages/test-no-pkgignore-package",
+  "branch": "main"
+}
